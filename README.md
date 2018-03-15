@@ -1,4 +1,4 @@
-# Beta-Bernoulli-Dependent-Dropout
+# Learning Network Structure with Dropout
 
 ### **CONTENT**
 > Data-dependent variational dropout for learning a network structure
