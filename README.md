@@ -3,9 +3,9 @@
 ### **CONTENT**
 > Data-dependent variational dropout for learning a network structure
 ### **How to Use**
-> cd ./scripts/lenet_dense
-> ./pretrain.py
-> ./bbdropout.py
+> cd ./scripts/lenet_dense \\
+> ./pretrain.py \\
+> ./bbdropout.py \\
 
 <img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
 
